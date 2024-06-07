@@ -1,4 +1,4 @@
-# Firebase Storage Upload Example
+# Yachay social network using firebase
 
 <p>
   <!-- iOS -->
@@ -12,7 +12,7 @@ This example demonstrates how you can upload images (and other files) to Firebas
 ## 🚀 How to use
 
 - Run `yarn` or `npm install`
-- Run `yarn start` or `npm run start` to try it out.
+- Run `yarn start` to try it out.
 - Take a new picture or upload one from your library
 - See the image being rendered from Firebase
 
