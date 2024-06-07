@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1067143889084",
+    "project_id": "yachay-social-network",
+    "storage_bucket": "yachay-social-network.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067143889084:android:8b3f9f2cf5a6b4d37490b9",
+        "android_client_info": {
+          "package_name": "com.socialapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChbZMTDJjDRonF2fYB32NNx2EnHCaoXSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
